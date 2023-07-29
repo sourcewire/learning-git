@@ -1,1 +1,2 @@
 editing text file for git commit
+learning add, commit, push, pull, and clone
